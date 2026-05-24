@@ -1,0 +1,13 @@
+$primary: #17B978;
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Raleway",sans-serif;
+}
+body{
+    font-family: "Open Sans";
+}
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.nav-link:hover{
+    background-color: aquamarine;
+}
